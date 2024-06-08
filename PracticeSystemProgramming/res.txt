@@ -1,0 +1,59 @@
+------------------------------------
+Results for bad word: Shakespeare
+------------------------------------
+(by William ***********)
+
+From naked stones of agony
+
+I will build a house for me;
+
+As a mason all alone
+
+I will raise it, stone by stone,
+
+And every stone where I have bled
+
+Will show a sign of dusky red.
+
+I have not gone the way in vain,
+
+For I have good of all my pain;
+
+My spirit's quiet house will be
+
+Built of naked stones I trod
+
+On roads where I lost sight of God.
+----------------------
+File name: .\file1.txt
+Count of bad words: 1
+----------------------
+(by William ***********)
+
+Sigh no more, ladies, sigh no more,
+
+Men were deceivers ever,
+
+One foot in sea and one on shore,
+
+To one thing constant never:
+
+Then sigh not so, but let them go,
+
+And be you blithe and bonny,
+
+Converting all your sounds of woe
+
+Into Hey nonny, nonny.
+
+Sing no more ditties, sing no moe,
+
+Of dumps so dull and heavy;
+
+The fraud of men was ever so
+
+Since summer first was leafy
+----------------------
+File name: .\file2.txt
+Count of bad words: 1
+----------------------
